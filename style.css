@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right,rgb(46, 191, 231),rgba(240, 52, 249, 0.893));
+}
+.login{
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    /* background-image: url(./); */
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.data{
+    padding: 30px;
+}
+.t1{
+    border-radius: 10px;
+    padding: 4px;
+}
+.login a{
+    padding-left: 200px;
+}
+.login button{
+    background-color: rgb(218, 115, 221);
+    color: white;
+    border-color: rgb(218, 115, 221);
+    border-radius: 10px;
+    padding: 5px;
+}
+.login button:hover{
+    cursor: pointer;
+    background-color: rgb(25, 0, 255);
+    border-color: rgb(25, 0, 255);
+    color:whitesmoke;
+    font-size: 15px;
+}
